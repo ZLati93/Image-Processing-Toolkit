@@ -1,7 +1,6 @@
 # Image Processing Toolkit — Projet TI
 
-> **Academic Project** | IISE S2 — Faculté des Sciences  
-> **Instructor:** Pr. Y. AIT LAHCEN  
+> **Academic Project** | IISE S2 — Faculté des Sciences   
 > **Language:** MATLAB (zero dependency on Image Processing Toolbox)
 
 ---
@@ -137,8 +136,7 @@ imshow(uint8(255 .* mag ./ max(mag(:))));
 ---
 
 ## 7. Contributors & License
-
-- **Author / Instructor:** Pr. Y. AIT LAHCEN  
+ 
 - **Institution:** Faculté des Sciences / IISE S2
 
 This material is provided for **academic and educational purposes**. You are free to use, modify, and distribute it within an educational context. For commercial use, please contact the author.
